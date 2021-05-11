@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="66f8f049-672a-49ce-937f-22b83d8f1365" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cybercube_task2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/cybercube_task2/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1sJKWvPoRXBaic1MNuUF0Wr471N" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="cybercube_task2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66f8f049-672a-49ce-937f-22b83d8f1365" name="Default Changelist" comment="" />
+      <created>1620585287031</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620585287031</updated>
+      <workItem from="1620585288350" duration="2934000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="458" y="99" key="CommitChangelistDialog2" timestamp="1620588809475">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="458" y="99" key="CommitChangelistDialog2/0.0.1680.1010@0.0.1680.1010" timestamp="1620588809475" />
+    <state width="802" height="272" key="GridCell.Tab.0.bottom" timestamp="1620588423406">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="802" height="272" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1620588423406" />
+    <state width="802" height="272" key="GridCell.Tab.0.center" timestamp="1620588423406">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="802" height="272" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1620588423406" />
+    <state width="802" height="272" key="GridCell.Tab.0.left" timestamp="1620588423406">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="802" height="272" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1620588423406" />
+    <state width="802" height="272" key="GridCell.Tab.0.right" timestamp="1620588423406">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="802" height="272" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1620588423406" />
+    <state x="208" y="429" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1620588707928">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="208" y="429" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1010@0.0.1680.1010" timestamp="1620588707928" />
+    <state x="62" y="228" key="search.everywhere.popup" timestamp="1620586455242">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="62" y="228" key="search.everywhere.popup/0.0.1680.1010@0.0.1680.1010" timestamp="1620586455242" />
+  </component>
+</project>
